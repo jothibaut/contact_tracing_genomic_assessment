@@ -1,0 +1,4 @@
+source_id,target_id,EPI.x,EPI.y,variant.x,variant.y,strain.x,strain.y
+contact_tracing_00,contact_tracing_01,EPI_ISL_dummy_00,EPI_ISL_dummy_01,BA.1,BA.1,hCoV-19_Belgium_dummy-00,hCoV-19_Belgium_dummy-01
+contact_tracing_02,contact_tracing_03,EPI_ISL_dummy_02,EPI_ISL_dummy_03,BA.1,BA.1,hCoV-19_Belgium_dummy-02,hCoV-19_Belgium_dummy-03
+contact_tracing_03,contact_tracing_04,EPI_ISL_dummy_03,EPI_ISL_dummy_04,BA.1,BA.1,hCoV-19_Belgium_dummy-03,hCoV-19_Belgium_dummy-04
